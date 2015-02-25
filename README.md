@@ -4,6 +4,8 @@
 
 ## [Vision](https://docs.google.com/document/d/14jd8sy2ppL-jpfdgnvRvK0JNCUwk4Sn7kTyiDfgpQ_c/edit?usp=drive_web)
 
+## [MVP Roadmap](https://github.com/vit-backups/vit/issues?q=is%3Aopen+is%3Aissue+milestone%3Amvp)
+
 ## Principle Assumptions
 
 * Don't enshrine the uploader
