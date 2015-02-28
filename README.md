@@ -6,6 +6,8 @@
 
 ## [MVP Roadmap](https://github.com/vit-backups/vit/issues?q=is%3Aopen+is%3Aissue+milestone%3Amvp)
 
+## [Wiki](https://github.com/vit-backups/vit/wiki)
+
 ## Principle Assumptions
 
 * Don't enshrine the uploader
